@@ -1,0 +1,10 @@
+body {
+    background-image: url("https://emanscreativity.files.wordpress.com/2013/11/book-background-02.jpg");
+    background-size: cover;
+}
+
+.name h1 {
+    color: white;
+    background-color: black;
+    text-align: center;
+}
