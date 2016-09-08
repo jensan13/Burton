@@ -7,4 +7,23 @@ body {
     color: white;
     background-color: black;
     text-align: center;
+    font-family: cursive;
+}
+
+.info {
+    color:dimgrey;
+    background-color: blanchedalmond;
+    padding: 5px;
+    font-size: 20px;
+}
+
+.info h3 {
+    color:black;
+    font-size: 25px;
+}
+
+.burton {
+    background-color: #0A202F;
+    text-align: center;
+    padding: 10px;
 }
