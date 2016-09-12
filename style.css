@@ -27,3 +27,16 @@ body {
     text-align: center;
     padding: 10px;
 }
+
+.personal {
+    background-color: black;
+    color: whitesmoke;
+    text-align: center;
+    padding: 10px;
+    font-family: fantasy;
+}
+
+.personal h1 {
+    color: maroon;
+    font-size: 25px;
+}
