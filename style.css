@@ -11,21 +11,30 @@ body {
 }
 
 .info {
-    color:dimgrey;
-    background-color: blanchedalmond;
+    color:white;
+    background-color: maroon;
     padding: 5px;
     font-size: 20px;
+    font-family:cursive;
+    border-style:groove;
+    text-align:center;
 }
 
 .info h3 {
     color:black;
     font-size: 25px;
+    font-family:monospace;
+    text-align:center;
+    background-color:firebrick;
 }
 
 .burton {
-    background-color: #0A202F;
+    background-color:darkgray;
     text-align: center;
     padding: 10px;
+    margin: 30px;
+    border-style:ridge;
+    border-color: black;
 }
 
 .personal {
@@ -33,10 +42,32 @@ body {
     color: whitesmoke;
     text-align: center;
     padding: 10px;
-    font-family: fantasy;
+    font-family: monospace;
+    border-style:dotted;
 }
 
 .personal h1 {
     color: maroon;
     font-size: 25px;
+    font-family:cursive;
+    background-color:whitesmoke;
 }
+
+.picture {
+    background-color: darkgray;
+    text-align: center;
+    margin: 30px;
+    padding: 10px;
+    border-style: ridge; 
+    border-color: black;
+}
+
+.movies {
+    background-color:darkgray;
+    text-align:center;
+    margin: 20px;
+    padding:10px;
+    border-style:groove;
+    border-color:black;
+}
+
