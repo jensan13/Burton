@@ -71,3 +71,12 @@ body {
     border-color:black;
 }
 
+.music iframe {
+    background-color: dimgray;
+    margin: 20px;
+    text-align: center;
+    border-style: dashed;
+    border-color: crimson;
+    padding: 10px;
+}
+
