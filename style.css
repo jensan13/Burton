@@ -7,7 +7,7 @@ body {
     color: white;
     background-color: black;
     text-align: center;
-    font-family: cursive;
+    font-family: Arial;
 }
 
 .info {
@@ -15,7 +15,7 @@ body {
     background-color: maroon;
     padding: 5px;
     font-size: 20px;
-    font-family:cursive;
+    font-family:Arial;
     border-style:groove;
     text-align:center;
 }
@@ -23,7 +23,7 @@ body {
 .info h3 {
     color:black;
     font-size: 25px;
-    font-family:monospace;
+    font-family:Arial;
     text-align:center;
     background-color:firebrick;
 }
@@ -42,14 +42,14 @@ body {
     color: whitesmoke;
     text-align: center;
     padding: 10px;
-    font-family: monospace;
+    font-family: Arial;
     border-style:dotted;
 }
 
 .personal h1 {
     color: maroon;
     font-size: 25px;
-    font-family:cursive;
+    font-family: Arial;
     background-color:whitesmoke;
 }
 
