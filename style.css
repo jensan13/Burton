@@ -80,3 +80,16 @@ body {
     padding: 10px;
 }
 
+.facts {
+    background-color: azure;
+    text-align: center;
+    color: black;
+    padding: 10px;
+}
+
+.tnbc h1 {
+    color: white;
+    background-color: black;
+    text-align: center;
+    font-family: Arial;
+
