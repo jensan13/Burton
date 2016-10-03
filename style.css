@@ -169,3 +169,48 @@ body {
     margin: 10px;
 }
 
+.fam {
+    background-color:#876D85;
+    border-style: double;
+    border-color: black;
+    text-align: center;
+    margin: 10px;
+    padding: 10px; 
+}
+
+.skell {
+    background-color:#876D85;
+    border-style: double;
+    border-color: black;
+    text-align: center;
+    margin: 10px;
+    padding: 10px;     
+}
+
+.mount {
+    background-color:#876D85;
+    border-style: double;
+    border-color: black;
+    text-align: center;
+    margin: 10px;
+    padding: 10px; 
+}
+
+.scury {
+    background-color:#876D85;
+    border-style: double;
+    border-color: black;
+    text-align: center;
+    margin: 10px;
+    padding: 10px; 
+}
+
+.nov {
+    background-color:#876D85;
+    border-style: double;
+    border-color: black;
+    text-align: center;
+    margin: 10px;
+    padding: 10px; 
+}
+
