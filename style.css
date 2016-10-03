@@ -89,7 +89,83 @@ body {
 
 .tnbc h1 {
     color: white;
-    background-color: white;
+    background-color: black;
     text-align: center;
     font-family: Arial;
+}
+
+.bride h1 {
+    text-align: center;
+    background-color: black;
+    color: azure;
+    font-family: 'Mountains of Christmas', cursive;
+}
+
+.vicc {
+    background-color: cadetblue;
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+    border-style: double;
+    border-color:black;
+    font-size: 15px;
+}
+
+.vicc h3 {
+    text-align: center;
+    background-color: aliceblue;
+    color: darkslategrey;
+}
+
+.family {
+    background-color: darkkhaki;
+    border-style: double;
+    border-color: black;
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+}
+
+.gif {
+    background-color:#69A27E;
+    border-style: double;
+    border-color: black;
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+}
+
+.vows {
+    background-color:#876D85;
+    border-style: double;
+    border-color: black;
+    text-align: center;
+    margin: 10px;
+    padding: 10px; 
+}
+
+.song iframe {
+    background-color:indianred;
+    border-style: double;
+    border-color: black;
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+}
+
+.hey {
+    background-color:blanchedalmond;
+    border-style: double;
+    border-color: black;
+    text-align: center;
+    margin: 10px;
+    padding: 10px; 
+}
+
+.hey h2 {
+    background-color: lightpink;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+}
 
