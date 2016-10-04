@@ -85,6 +85,14 @@ body {
     text-align: center;
     color: black;
     padding: 10px;
+    font-size: 20px;
+}
+
+.facts h3 {
+    background-color: darkseagreen;
+    border-style: groove;
+    border-color: black;
+    font-family: monospace;
 }
 
 .tnbc h1 {
