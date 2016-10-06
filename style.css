@@ -14,15 +14,15 @@ body {
     color:white;
     background-color: maroon;
     padding: 5px;
-    font-size: 20px;
+    font-size: 22px;
     font-family:Arial;
-    border-style:groove;
+    border-style:double;
     text-align:center;
 }
 
 .info h3 {
     color:black;
-    font-size: 25px;
+    font-size: 42px;
     font-family:Arial;
     text-align:center;
     background-color:firebrick;
@@ -44,6 +44,7 @@ body {
     padding: 10px;
     font-family: Arial;
     border-style:dotted;
+    font-size: 15px;
 }
 
 .personal h1 {
@@ -67,7 +68,7 @@ body {
     text-align:center;
     margin: 20px;
     padding:10px;
-    border-style:groove;
+    border-style:double;
     border-color:black;
 }
 
